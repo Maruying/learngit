@@ -5,3 +5,4 @@ Git is two.
 Creating a new branch is quick.
 merge a new branch is quick AND simple.
 add merge.
+1
